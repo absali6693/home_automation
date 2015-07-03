@@ -1,0 +1,1 @@
+java -classpath homeauto.jar;c:\sqlite3\sqlite.jar;. com.thinking.machines.automation.pl.%1

@@ -1,0 +1,12 @@
+DATABASE:	homeauto.db
+TABLE:		area_type
+			COLUMN:	name-> text
+		
+
+		electronic_unit
+			COLUMN: code-> integer
+				control_unit->text
+				name->text
+				is_switchable->text
+				is_controllable->text
+				area_type->text
